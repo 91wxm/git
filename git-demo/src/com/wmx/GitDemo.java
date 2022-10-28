@@ -10,6 +10,7 @@ public class GitDemo {
         System.out.println("hot-fix 第二次提交");
         System.out.println("push test");
         System.out.println("pull test");
+        System.out.println("github test");
         
     }
 }
